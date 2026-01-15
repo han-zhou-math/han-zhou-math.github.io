@@ -1,0 +1,27 @@
+# Site settings
+title: "Han Zhou"
+description: "Postdoctoral Fellow in Applied Mathematics, University of Pennsylvania"
+email: hzhou24@sas.upenn.edu
+url: "https://han-zhou-math.github.io"
+baseurl: ""
+
+# Theme (GitHub Pages–supported)
+theme: minima
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+# Plugins supported by GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude unnecessary files
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
