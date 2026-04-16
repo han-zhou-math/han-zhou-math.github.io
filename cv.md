@@ -2,8 +2,9 @@
 layout: page
 title: "CV"
 permalink: /cv/
+description: "Download the latest curriculum vitae."
 ---
 
-You can download my CV here:
+The current version of my curriculum vitae is available as a PDF.
 
-[📄 Download CV (PDF)](/assets/files/Han_CV.pdf)
+<a class="button-link cv-download" href="/assets/files/Han_CV.pdf">Download CV (PDF)</a>

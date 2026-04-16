@@ -2,6 +2,7 @@
 layout: page
 title: "Talks"
 permalink: /talks/
+description: "Selected seminars, conference presentations, and workshop talks."
 ---
 
 ## Selected Talks

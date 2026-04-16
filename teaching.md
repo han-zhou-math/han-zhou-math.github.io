@@ -2,6 +2,7 @@
 layout: page
 title: "Teaching"
 permalink: /teaching/
+description: "Courses taught and teaching assistant experience in applied mathematics."
 ---
 
 ## University of Pennsylvania

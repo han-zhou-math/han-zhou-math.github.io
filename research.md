@@ -2,9 +2,13 @@
 layout: page
 title: "Research"
 permalink: /research/
+description: "Publications and preprints in scientific computing, numerical analysis, and mathematical modeling."
 ---
 
 ## Publications and Preprints
+
+My research centers on interface problems, fast Cartesian-grid algorithms, and variational models
+for membranes and fluid-structure systems. A full list appears below.
 
 1. **Pengsong Yin, Wenjun Ying, Yulin Zhang, Han Zhou.**  
    *A kernel-free boundary integral method for elliptic interface problems on surfaces.*  
