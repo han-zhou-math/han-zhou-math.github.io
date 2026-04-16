@@ -7,6 +7,7 @@ description: "Selected seminars, conference presentations, and workshop talks."
 
 ## Selected Talks
 
+- *Kanazawa University - Penn Soft Matter / Applied Math Workshop*, University of Pennsylvania, Philadelphia, Pennsylvania, Mar. 23-25, 2026
 - *Mathematical Modeling, Computational Methods, and Biological Fluid Dynamics: Research and Training*, NITMB, Chicago, Illinois, Aug. 2025  
 - *Numerical Analysis and PDE Seminar*, University of Delaware, Newark, Delaware, May 2025  
 - *Fluid Mechanics and Waves Seminar*, NJIT, Newark, Nov. 2024  

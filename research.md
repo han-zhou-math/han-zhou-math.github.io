@@ -7,16 +7,18 @@ description: "Publications and preprints in scientific computing, numerical anal
 
 ## Publications and Preprints
 
-My research centers on interface problems, fast Cartesian-grid algorithms, and variational models
-for membranes and fluid-structure systems. A full list appears below.
+My research lies at the intersection of mathematical biology, scientific computing, and numerical
+analysis. In particular, I build mathematical models for biological membranes, develop numerical
+methods for interface problems and fluid-structure interaction, and study the analysis of these
+systems. A full list appears below.
 
 1. **Pengsong Yin, Wenjun Ying, Yulin Zhang, Han Zhou.**  
    *A kernel-free boundary integral method for elliptic interface problems on surfaces.*  
    [arXiv:2508.16061](https://doi.org/10.48550/arXiv.2508.16061)
 
 2. **Han Zhou, Yuan-Nan Young, Yoichiro Mori.**  
-   *Energy variational modeling and numerical simulation of open membranes in Stokes flow.*  
-   [arXiv:2504.16823](https://doi.org/10.48550/arXiv.2504.16823)
+   *Modeling and Simulation of Open Membranes in Stokes Flow with Mixed-Dimensional Coupling.*  
+   *Multiscale Modeling & Simulation*, 24(2):474-500, 2026. [DOI](https://doi.org/10.1137/25M1762476)
 
 3. **Han Zhou, Wenjun Ying.**  
    *A Cartesian grid-based boundary integral method for moving interface problems.*  

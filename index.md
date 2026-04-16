@@ -4,112 +4,88 @@ title: ""
 permalink: /
 ---
 
-<section class="hero">
-  <div class="hero-text">
-    <p class="eyebrow">Scientific Computing · Numerical Analysis · Mathematical Modeling</p>
-    <h1>Han Zhou</h1>
-    <p class="lead">
-      I am a Postdoctoral Fellow in the Department of Mathematics at the University of Pennsylvania.
-      My work combines numerical analysis, scientific computing, and continuum modeling, with a
-      particular focus on interface problems, membrane dynamics, and fluid-structure interaction.
-    </p>
-    <div class="hero-actions">
-      <a class="button-link" href="/research/">View Research</a>
-      <a class="button-link secondary" href="/assets/files/Han_CV.pdf">Download CV</a>
-    </div>
-  </div>
+![Han Zhou](assets/images/han-photo.jpeg){: .profile-photo }
 
-  <aside class="hero-card">
-    <img class="portrait" src="/assets/images/han-photo.jpeg" alt="Portrait of Han Zhou">
-    <h2>Contact</h2>
-    <div class="contact-list">
-      <a href="mailto:hzhou24@sas.upenn.edu">hzhou24@sas.upenn.edu</a>
-      <a href="https://www.math.upenn.edu/" target="_blank" rel="noreferrer">Penn Mathematics</a>
-    </div>
-    <p>Department of Mathematics, University of Pennsylvania</p>
-    <p>Philadelphia, PA, USA</p>
-  </aside>
-</section>
+<div id="profile"></div>
+## Academic Profile
 
-<section class="home-section">
-  <p class="eyebrow">Research Focus</p>
-  <h2>Mathematical models built for hard interfaces and moving boundaries</h2>
-  <p>
-    I develop numerical methods and mathematical models for PDEs arising in biological fluids,
-    membrane mechanics, and irregular-domain computations. The common thread is turning geometric
-    and interfacial complexity into robust, efficient algorithms.
-  </p>
-  <div class="section-grid">
-    <article class="surface-card">
-      <h3>Cartesian Grid Methods</h3>
-      <p>
-        Fast grid-based solvers for PDE interface problems, irregular domains, and evolving
-        boundaries without sacrificing geometric accuracy.
-      </p>
-    </article>
-    <article class="surface-card">
-      <h3>Membranes and Vesicles</h3>
-      <p>
-        Modeling open membranes, vesicles, and related fluid-structure systems through variational
-        principles and computational simulation.
-      </p>
-    </article>
-    <article class="surface-card">
-      <h3>Analysis and Well-posedness</h3>
-      <p>
-        PDE questions motivated by fluid mechanics and biological applications, especially
-        open-boundary and nonlinear coupling effects.
-      </p>
-    </article>
-  </div>
-</section>
+My research interests lie in mathematical biology, scientific computing, and numerical analysis. More specifically, I build mathematical models for biological membranes, develop numerical methods for interface problems and fluid-structure interaction, and study the analysis of these systems. I began this work as an undergraduate in Mathematics and Applied Mathematics at Shanghai Jiao Tong University from 2016 to 2020, continued it during my Ph.D. in Mathematics at Shanghai Jiao Tong University from 2020 to 2024 under the supervision of Wenjun Ying, and I am now a Postdoctoral Fellow in the Department of Mathematics at the University of Pennsylvania, where my host is Professor Yoichiro Mori.
 
-<section class="home-section">
-  <p class="eyebrow">Selected Overview</p>
-  <h2>Current academic profile</h2>
-  <div class="timeline">
-    <article class="timeline-item">
-      <p class="meta-label">2024 to present</p>
-      <div>
-        <h3>Postdoctoral Fellow, University of Pennsylvania</h3>
-        <p>
-          Research in scientific computing, numerical analysis, and mathematical physiology within
-          the Department of Mathematics.
-        </p>
-      </div>
-    </article>
-    <article class="timeline-item">
-      <p class="meta-label">2020 to 2024</p>
-      <div>
-        <h3>Ph.D. in Mathematics, Shanghai Jiao Tong University</h3>
-        <p>Advisor: Wenjun Ying</p>
-      </div>
-    </article>
-    <article class="timeline-item">
-      <p class="meta-label">2016 to 2020</p>
-      <div>
-        <h3>B.S. in Mathematics and Applied Mathematics, Shanghai Jiao Tong University</h3>
-        <p>Foundational training in pure and applied mathematics.</p>
-      </div>
-    </article>
-  </div>
-</section>
+**Email:** [hzhou24@sas.upenn.edu](mailto:hzhou24@sas.upenn.edu)  
+**Affiliation:** Department of Mathematics, University of Pennsylvania  
+**Office:** DRL 3N8B, David Rittenhouse Laboratory, Philadelphia, PA
 
-<section class="home-section">
-  <p class="eyebrow">Explore</p>
-  <h2>Research, talks, and teaching</h2>
-  <div class="section-grid">
-    <article class="surface-card">
-      <h3><a href="/research/">Research</a></h3>
-      <p>Publications and preprints on interface methods, membrane dynamics, and numerical PDEs.</p>
-    </article>
-    <article class="surface-card">
-      <h3><a href="/talks/">Talks</a></h3>
-      <p>Selected invited seminars, conference presentations, and workshop talks.</p>
-    </article>
-    <article class="surface-card">
-      <h3><a href="/teaching/">Teaching</a></h3>
-      <p>Instructor and teaching assistant roles in numerical analysis, scientific computing, and geometry.</p>
-    </article>
-  </div>
-</section>
+<div id="publications"></div>
+## Publications and Preprints
+
+1. **Pengsong Yin, Wenjun Ying, Yulin Zhang, Han Zhou.**  
+   *A kernel-free boundary integral method for elliptic interface problems on surfaces.*  
+   [arXiv:2508.16061](https://doi.org/10.48550/arXiv.2508.16061)
+
+2. **Han Zhou, Yuan-Nan Young, Yoichiro Mori.**  
+   *Modeling and Simulation of Open Membranes in Stokes Flow with Mixed-Dimensional Coupling.*  
+   *Multiscale Modeling & Simulation*, 24(2):474-500, 2026. [DOI](https://doi.org/10.1137/25M1762476)
+
+3. **Han Zhou, Wenjun Ying.**  
+   *A Cartesian grid-based boundary integral method for moving interface problems.*  
+   [arXiv:2309.01068](https://doi.org/10.48550/arXiv.2309.01068)
+
+4. **Han Zhou, Minsheng Huang, Wenjun Ying.**  
+   *ADI schemes for the heat equation on arbitrary 3D domains and their applications.*  
+   [arXiv:2309.00979](https://doi.org/10.48550/arXiv.2309.00979)
+
+5. **Han Zhou, Wenjun Ying.**  
+   *A correction function-based kernel-free boundary integral method for elliptic PDEs with implicitly defined interfaces.*  
+   *Journal of Computational Physics*, 496:112545, 2024. [DOI](https://doi.org/10.1016/j.jcp.2023.112545)
+
+6. **Han Zhou, Jiahe Yang, Wenjun Ying.**  
+   *A kernel-free boundary integral method for the nonlinear Poisson-Boltzmann equation.*  
+   *Journal of Computational Physics*, 493:112423, 2023. [DOI](https://doi.org/10.1016/j.jcp.2023.112423)
+
+7. **Han Zhou, Wenjun Ying.**  
+   *A dimension splitting method for time dependent PDEs on irregular domains.*  
+   *Journal of Scientific Computing*, 94(1):20, 2023. [DOI](https://doi.org/10.1007/s10915-022-02066-5)
+
+8. **Han Zhou, Shuwang Li, Wenjun Ying.**  
+   *An alternating direction implicit method for mean curvature flows.*  
+   *Journal of Scientific Computing*, 101:65, 2024. [DOI](https://doi.org/10.1007/s10915-024-02701-3)
+
+9. **Jiacheng Xu, Dan Hu, Han Zhou.**  
+   *A phase-field method for elastic mechanics with large deformation.*  
+   *Journal of Computational Physics*, 471:111630, 2022. [DOI](https://doi.org/10.1016/j.jcp.2022.111630)
+
+<div id="talks"></div>
+## Talks
+
+- *Kanazawa University - Penn Soft Matter / Applied Math Workshop*, University of Pennsylvania, Philadelphia, Pennsylvania, Mar. 23-25, 2026
+- *Mathematical Modeling, Computational Methods, and Biological Fluid Dynamics: Research and Training*, NITMB, Chicago, Illinois, Aug. 2025
+- *Numerical Analysis and PDE Seminar*, University of Delaware, Newark, Delaware, May 2025
+- *Fluid Mechanics and Waves Seminar*, NJIT, Newark, Nov. 2024
+- *NCTS Seminar on PDE and Machine Learning*, Online, Oct. 2024
+- *The 10th International Congress on Industrial and Applied Mathematics*, Waseda University, Tokyo, Aug. 2023
+- *SICIAM Workshop on Recent Advances in Fast Algorithms*, CUHK, Shenzhen, Aug. 2023
+- *Chinese Mathematical Society in Computational Mathematics*, Nanjing Normal University, Nanjing, Jul. 2023
+- *CSIAM Student Forum*, Online, Nov. 2022
+- *Shanghai Symposium on Scientific and Engineering Computing Methods*, Shanghai, Nov. 2021
+
+<div id="teaching"></div>
+## Teaching
+
+### University of Pennsylvania
+
+- Instructor, AMCS 6035, *Numerical and Applied Analysis II*, Spring 2026
+- Instructor, AMCS 6025, *Numerical and Applied Analysis I*, Fall 2025
+- Instructor, AMCS 6035, *Numerical and Applied Analysis II*, Spring 2025
+- Instructor, AMCS 6025, *Numerical and Applied Analysis I*, Fall 2024
+
+### Shanghai Jiao Tong University
+
+- Teaching Assistant, *Differential Geometry* (Fall 2023)
+- Teaching Assistant, *Convex Optimization* (Spring 2022, Fall 2022)
+- Teaching Assistant, *Scientific Computing* (Spring 2021, Fall 2021)
+- Teaching Assistant, *Calculus* (Fall 2020)
+
+<div id="cv"></div>
+## CV
+
+<a class="button-link" href="/assets/files/Han_CV.pdf">Download CV (PDF)</a>
