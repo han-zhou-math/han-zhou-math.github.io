@@ -9,7 +9,7 @@ permalink: /
 <div id="profile"></div>
 ## Academic Profile
 
-My research focuses on partial differential equations arising in physical and biological systems, including membrane biophysics and fluid dynamics, especially fluid-structure interaction. I develop mathematical models, design and analyze efficient numerical methods for their simulation, and study the well-posedness of the underlying PDE systems. I began this work as an undergraduate in Mathematics and Applied Mathematics at Shanghai Jiao Tong University from 2016 to 2020, continued it during my Ph.D. in Mathematics at Shanghai Jiao Tong University from 2020 to 2024 under the supervision of Wenjun Ying, and I am now a Postdoctoral Fellow in the Department of Mathematics at the University of Pennsylvania, where my host is Professor Yoichiro Mori.
+My research focuses on partial differential equations arising in physical and biological systems, including membrane biophysics and fluid dynamics, especially fluid-structure interaction. I develop mathematical models, design and analyze efficient numerical methods for their simulation, and study the well-posedness of the underlying PDE systems. I received my undergraduate training in Mathematics and Applied Mathematics at Shanghai Jiao Tong University from 2016 to 2020, and completed my Ph.D. in Mathematics there from 2020 to 2024 under the supervision of Professor [Wenjun Ying](https://math.sjtu.edu.cn/faculty/wying/). I am currently a Postdoctoral Fellow in the Department of Mathematics at the University of Pennsylvania, where my host is Professor [Yoichiro Mori](https://www.sas.upenn.edu/~y1mori/).
 
 **Email:** [hzhou24@sas.upenn.edu](mailto:hzhou24@sas.upenn.edu)  
 **Affiliation:** Department of Mathematics, University of Pennsylvania  
