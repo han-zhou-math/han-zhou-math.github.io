@@ -1,6 +1,6 @@
 # Site settings
 title: "Han Zhou"
-description: "University of Pennsylvania"
+description: "Department of Mathematics, University of Pennsylvania"
 email: hzhou24@sas.upenn.edu
 url: "https://han-zhou-math.github.io"
 baseurl: ""
@@ -25,3 +25,6 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+  - vendor
+  - .bundle
+  - .codex

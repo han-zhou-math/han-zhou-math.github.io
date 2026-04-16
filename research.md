@@ -17,7 +17,7 @@ systems. A full list appears below.
    [arXiv:2508.16061](https://doi.org/10.48550/arXiv.2508.16061)
 
 2. **Han Zhou, Yuan-Nan Young, Yoichiro Mori.**  
-   *Modeling and Simulation of Open Membranes in Stokes Flow with Mixed-Dimensional Coupling.*  
+   *Modeling and simulation of open membranes in Stokes flow with mixed-dimensional coupling.*  
    *Multiscale Modeling & Simulation*, 24(2):474-500, 2026. [DOI](https://doi.org/10.1137/25M1762476)
 
 3. **Han Zhou, Wenjun Ying.**  

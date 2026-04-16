@@ -7,13 +7,14 @@ permalink: /
 ![Han Zhou](assets/images/han-photo.jpeg){: .profile-photo }
 
 <div id="profile"></div>
-## Academic Profile
+## About Me
 
-My research focuses on partial differential equations arising in physical and biological systems, including membrane biophysics and fluid dynamics, especially fluid-structure interaction. I develop mathematical models, design and analyze efficient numerical methods for their simulation, and study the well-posedness of the underlying PDE systems. I received my undergraduate training in Mathematics and Applied Mathematics at Shanghai Jiao Tong University from 2016 to 2020, and completed my Ph.D. in Mathematics there from 2020 to 2024 under the supervision of Professor [Wenjun Ying](https://math.sjtu.edu.cn/faculty/wying/). I am currently a Postdoctoral Fellow in the Department of Mathematics at the University of Pennsylvania, where my host is Professor [Yoichiro Mori](https://www.sas.upenn.edu/~y1mori/).
+I am currently a Postdoctoral Fellow in Applied Mathematics and Computational Science (AMCS) and the Center for Mathematical Biology (CMB) at the University of Pennsylvania, where I work with Professor [Yoichiro Mori](https://www.sas.upenn.edu/~y1mori/). I completed my Ph.D. in Mathematics at Shanghai Jiao Tong University from 2020 to 2024 under the supervision of Professor [Wenjun Ying](https://math.sjtu.edu.cn/faculty/wying/), after receiving my undergraduate training in Mathematics and Applied Mathematics there from 2016 to 2020.
+
+My research focuses on partial differential equations arising in physical and biological systems, including membrane biophysics and fluid dynamics, especially fluid-structure interaction. I develop mathematical models, design and analyze efficient numerical methods for their simulation, and study the well-posedness of the underlying PDE systems.
 
 **Email:** [hzhou24@sas.upenn.edu](mailto:hzhou24@sas.upenn.edu)  
-**Affiliation:** Department of Mathematics, University of Pennsylvania  
-**Office:** DRL 3N8B, David Rittenhouse Laboratory, Philadelphia, PA
+**Office:** DRL 3N8B, David Rittenhouse Laboratory, Philadelphia, PA, USA
 
 <div id="publications"></div>
 ## Publications and Preprints
@@ -23,7 +24,7 @@ My research focuses on partial differential equations arising in physical and bi
    [arXiv:2508.16061](https://doi.org/10.48550/arXiv.2508.16061)
 
 2. **Han Zhou, Yuan-Nan Young, Yoichiro Mori.**  
-   *Modeling and Simulation of Open Membranes in Stokes Flow with Mixed-Dimensional Coupling.*  
+   *Modeling and simulation of open membranes in Stokes flow with mixed-dimensional coupling.*  
    *Multiscale Modeling & Simulation*, 24(2):474-500, 2026. [DOI](https://doi.org/10.1137/25M1762476)
 
 3. **Han Zhou, Wenjun Ying.**  
