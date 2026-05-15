@@ -33,7 +33,7 @@ My research focuses on partial differential equations arising in physical and bi
 
 4. **Pengsong Yin, Wenjun Ying, Yulin Zhang, Han Zhou.**  
    *A kernel-free boundary integral method for elliptic interface problems on surfaces.*  
-   [arXiv:2508.16061](https://doi.org/10.48550/arXiv.2508.16061) [DOI](https://doi.org/10.1016/j.jcp.2026.115004)
+   *Journal of Computational Physics*, to appear. [arXiv:2508.16061](https://doi.org/10.48550/arXiv.2508.16061) [DOI](https://doi.org/10.1016/j.jcp.2026.115004)
 
 5. **Han Zhou, Shuwang Li, Wenjun Ying.**  
    *An alternating direction implicit method for mean curvature flows.*  
