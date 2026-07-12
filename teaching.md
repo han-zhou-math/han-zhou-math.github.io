@@ -18,3 +18,8 @@ description: "Courses taught and teaching assistant experience in applied mathem
 - Teaching Assistant, *Convex Optimization* (Spring 2022, Fall 2022)  
 - Teaching Assistant, *Scientific Computing* (Spring 2021, Fall 2021)  
 - Teaching Assistant, *Calculus* (Fall 2020)  
+
+## Graduate Project Supervision at the University of Pennsylvania
+
+- Rui Xu, AMCS graduate student, 2025
+- JiYao Zhang, AMCS graduate student, 2025

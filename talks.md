@@ -8,6 +8,7 @@ description: "Selected seminars, conference presentations, and workshop talks."
 ## Selected Talks
 
 - *2026 SIAM Annual Meeting*, Cleveland, July 6-10, 2026
+- *2026 CAIMS/SCMAI Annual Meeting*, Regina, June 15-19, 2026
 - *2026 NCTS Workshop on Mathematics of Living Systems*, Hsinchu, May 20-22, 2026
 - *Kanazawa University - Penn Soft Matter / Applied Math Workshop*, Philadelphia, March 23-25, 2026
 - *Mathematical Modeling, Computational Methods, and Biological Fluid Dynamics: Research and Training*, Chicago, August 2025
