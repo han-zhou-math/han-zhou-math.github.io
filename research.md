@@ -52,7 +52,7 @@ systems. A full list appears below.
    *A kernel-free boundary integral method for the nonlinear Poisson-Boltzmann equation.*  
    *Journal of Computational Physics*, 493:112423, 2023. [DOI](https://doi.org/10.1016/j.jcp.2023.112423)
 
-11. **Han Zhou, Wenjun Ying.**  
+11. **Han Zhou, Shuwang Li, Wenjun Ying.**  
    *A Cartesian grid-based boundary integral method for moving interface problems.*  
    [arXiv:2309.01068](https://doi.org/10.48550/arXiv.2309.01068)
 
