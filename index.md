@@ -41,11 +41,11 @@ My research focuses on partial differential equations arising in physical and bi
 
 6. **Han Zhou, Yuan-Nan Young, Yoichiro Mori.**  
    *Modeling and simulation of open membranes in Stokes flow with mixed-dimensional coupling.*  
-   *Multiscale Modeling & Simulation*, 24(2):474-500, 2026. [DOI](https://doi.org/10.1137/25M1762476)
+   *Multiscale Modeling & Simulation*, 24(2):474-500, 2026. [DOI](https://doi.org/10.1137/25M1762476) [arXiv:2504.16823](https://doi.org/10.48550/arXiv.2504.16823)
 
 7. **Pengsong Yin, Wenjun Ying, Yulin Zhang, Han Zhou.**  
    *A kernel-free boundary integral method for elliptic interface problems on surfaces.*  
-   *Journal of Computational Physics*, 562:115004, 2026. [arXiv:2508.16061](https://doi.org/10.48550/arXiv.2508.16061) [DOI](https://doi.org/10.1016/j.jcp.2026.115004)
+   *Journal of Computational Physics*, 562:115004, 2026. [DOI](https://doi.org/10.1016/j.jcp.2026.115004)
 
 8. **Han Zhou, Shuwang Li, Wenjun Ying.**  
    *An alternating direction implicit method for mean curvature flows.*  
