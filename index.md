@@ -20,59 +20,59 @@ My research focuses on partial differential equations arising in physical and bi
 ## Publications and Preprints
 
 1. **Eduardo García-Juárez, Susanna V. Haziot, Po-Chun Kuo, Yoichiro Mori, Han Zhou.**  
-   *On the global asymptotic stability for the 3D Peskin Problem at critical regularity.*  
+   *On the global asymptotic stability for the 3D Peskin Problem at critical regularity.*
    [arXiv](https://doi.org/10.48550/arXiv.2607.11731)
 
 2. **Sho Kawakami, Han Zhou, Po-Chun Kuo, Yoichiro Mori, Yuan-Nan Young.**  
-   *Stability and equilibria of a compressible elastic membrane in Stokes flow.*  
+   *Stability and equilibria of a compressible elastic membrane in Stokes flow.*
    [arXiv](https://doi.org/10.48550/arXiv.2607.03357)
 
 3. **Shuo Ling, Wenjun Ying, Han Zhou.**  
-   *Principal-part decomposition for neural operator learning of Dirichlet-to-Neumann maps.*  
+   *Principal-part decomposition for neural operator learning of Dirichlet-to-Neumann maps.*
    [arXiv](https://doi.org/10.48550/arXiv.2606.25952)
 
 4. **Charles L. Epstein, Yoichiro Mori, Han Zhou.**  
-   *Bulk-surface coupled PDE with an open boundary.*  
+   *Bulk-surface coupled PDE with an open boundary.*
    [arXiv](https://doi.org/10.48550/arXiv.2604.20798)
 
 5. **Han Zhou, Wenjun Ying.**  
-   *A correction function-based KFBI method for Brinkman interface problems.*  
+   *A correction function-based KFBI method for Brinkman interface problems.*
    [arXiv](https://doi.org/10.48550/arXiv.2604.15509)
 
 6. **Han Zhou, Yuan-Nan Young, Yoichiro Mori.**  
-   *Modeling and simulation of open membranes in Stokes flow with mixed-dimensional coupling.*  
+   *Modeling and simulation of open membranes in Stokes flow with mixed-dimensional coupling.*
    *Multiscale Modeling & Simulation*, 24(2):474-500, 2026. [DOI](https://doi.org/10.1137/25M1762476) [arXiv](https://doi.org/10.48550/arXiv.2504.16823)
 
 7. **Pengsong Yin, Wenjun Ying, Yulin Zhang, Han Zhou.**  
-   *A kernel-free boundary integral method for elliptic interface problems on surfaces.*  
+   *A kernel-free boundary integral method for elliptic interface problems on surfaces.*
    *Journal of Computational Physics*, 562:115004, 2026. [DOI](https://doi.org/10.1016/j.jcp.2026.115004)
 
 8. **Han Zhou, Shuwang Li, Wenjun Ying.**  
-   *An alternating direction implicit method for mean curvature flows.*  
+   *An alternating direction implicit method for mean curvature flows.*
    *Journal of Scientific Computing*, 101:65, 2024. [DOI](https://doi.org/10.1007/s10915-024-02701-3)
 
 9. **Han Zhou, Wenjun Ying.**  
-   *A correction function-based kernel-free boundary integral method for elliptic PDEs with implicitly defined interfaces.*  
+   *A correction function-based kernel-free boundary integral method for elliptic PDEs with implicitly defined interfaces.*
    *Journal of Computational Physics*, 496:112545, 2024. [DOI](https://doi.org/10.1016/j.jcp.2023.112545)
 
 10. **Han Zhou, Jiahe Yang, Wenjun Ying.**  
-   *A kernel-free boundary integral method for the nonlinear Poisson-Boltzmann equation.*  
+   *A kernel-free boundary integral method for the nonlinear Poisson-Boltzmann equation.*
    *Journal of Computational Physics*, 493:112423, 2023. [DOI](https://doi.org/10.1016/j.jcp.2023.112423)
 
 11. **Han Zhou, Shuwang Li, Wenjun Ying.**  
-   *A Cartesian grid-based boundary integral method for moving interface problems.*  
+   *A Cartesian grid-based boundary integral method for moving interface problems.*
    [arXiv](https://doi.org/10.48550/arXiv.2309.01068)
 
 12. **Han Zhou, Minsheng Huang, Wenjun Ying.**  
-   *ADI schemes for the heat equation on arbitrary 3D domains and their applications.*  
+   *ADI schemes for the heat equation on arbitrary 3D domains and their applications.*
    [arXiv](https://doi.org/10.48550/arXiv.2309.00979)
 
 13. **Han Zhou, Wenjun Ying.**  
-   *A dimension splitting method for time dependent PDEs on irregular domains.*  
+   *A dimension splitting method for time dependent PDEs on irregular domains.*
    *Journal of Scientific Computing*, 94(1):20, 2023. [DOI](https://doi.org/10.1007/s10915-022-02066-5)
 
 14. **Jiacheng Xu, Dan Hu, Han Zhou.**  
-   *A phase-field method for elastic mechanics with large deformation.*  
+   *A phase-field method for elastic mechanics with large deformation.*
    *Journal of Computational Physics*, 471:111630, 2022. [DOI](https://doi.org/10.1016/j.jcp.2022.111630)
 
 <div id="talks"></div>
