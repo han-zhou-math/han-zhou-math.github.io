@@ -14,27 +14,27 @@ systems. A full list appears below.
 
 1. **Eduardo García-Juárez, Susanna V. Haziot, Po-Chun Kuo, Yoichiro Mori, Han Zhou.**  
    *On the global asymptotic stability for the 3D Peskin Problem at critical regularity.*  
-   [arXiv:2607.11731](https://doi.org/10.48550/arXiv.2607.11731)
+   [arXiv](https://doi.org/10.48550/arXiv.2607.11731)
 
 2. **Sho Kawakami, Han Zhou, Po-Chun Kuo, Yoichiro Mori, Yuan-Nan Young.**  
    *Stability and equilibria of a compressible elastic membrane in Stokes flow.*  
-   [arXiv:2607.03357](https://doi.org/10.48550/arXiv.2607.03357)
+   [arXiv](https://doi.org/10.48550/arXiv.2607.03357)
 
 3. **Shuo Ling, Wenjun Ying, Han Zhou.**  
    *Principal-part decomposition for neural operator learning of Dirichlet-to-Neumann maps.*  
-   [arXiv:2606.25952](https://doi.org/10.48550/arXiv.2606.25952)
+   [arXiv](https://doi.org/10.48550/arXiv.2606.25952)
 
 4. **Charles L. Epstein, Yoichiro Mori, Han Zhou.**  
    *Bulk-surface coupled PDE with an open boundary.*  
-   [arXiv:2604.20798](https://doi.org/10.48550/arXiv.2604.20798)
+   [arXiv](https://doi.org/10.48550/arXiv.2604.20798)
 
 5. **Han Zhou, Wenjun Ying.**  
    *A correction function-based KFBI method for Brinkman interface problems.*  
-   [arXiv:2604.15509](https://doi.org/10.48550/arXiv.2604.15509)
+   [arXiv](https://doi.org/10.48550/arXiv.2604.15509)
 
 6. **Han Zhou, Yuan-Nan Young, Yoichiro Mori.**  
    *Modeling and simulation of open membranes in Stokes flow with mixed-dimensional coupling.*  
-   *Multiscale Modeling & Simulation*, 24(2):474-500, 2026. [DOI](https://doi.org/10.1137/25M1762476) [arXiv:2504.16823](https://doi.org/10.48550/arXiv.2504.16823)
+   *Multiscale Modeling & Simulation*, 24(2):474-500, 2026. [DOI](https://doi.org/10.1137/25M1762476) [arXiv](https://doi.org/10.48550/arXiv.2504.16823)
 
 7. **Pengsong Yin, Wenjun Ying, Yulin Zhang, Han Zhou.**  
    *A kernel-free boundary integral method for elliptic interface problems on surfaces.*  
@@ -54,11 +54,11 @@ systems. A full list appears below.
 
 11. **Han Zhou, Shuwang Li, Wenjun Ying.**  
    *A Cartesian grid-based boundary integral method for moving interface problems.*  
-   [arXiv:2309.01068](https://doi.org/10.48550/arXiv.2309.01068)
+   [arXiv](https://doi.org/10.48550/arXiv.2309.01068)
 
 12. **Han Zhou, Minsheng Huang, Wenjun Ying.**  
    *ADI schemes for the heat equation on arbitrary 3D domains and their applications.*  
-   [arXiv:2309.00979](https://doi.org/10.48550/arXiv.2309.00979)
+   [arXiv](https://doi.org/10.48550/arXiv.2309.00979)
 
 13. **Han Zhou, Wenjun Ying.**  
    *A dimension splitting method for time dependent PDEs on irregular domains.*  
