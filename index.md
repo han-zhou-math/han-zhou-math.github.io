@@ -37,7 +37,8 @@ My research focuses on partial differential equations arising in physical and bi
 
 5. C. L. Epstein, Y. Mori, H. Zhou,
    *Bulk-surface coupled PDE with an open boundary*,
-   arXiv:2604.20798. [arXiv](https://doi.org/10.48550/arXiv.2604.20798)
+   To appear in *Studies in Applied Mathematics*.
+   [arXiv](https://doi.org/10.48550/arXiv.2604.20798)
 
 6. H. Zhou, W. Ying,
    *A correction function-based KFBI method for Brinkman interface problems*,
