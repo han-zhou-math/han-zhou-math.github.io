@@ -11,7 +11,7 @@ permalink: /
 
 I am currently a Postdoctoral Fellow in Applied Mathematics and Computational Science (AMCS) and the Center for Mathematical Biology (CMB) at the University of Pennsylvania, where I work with Professor [Yoichiro Mori](https://www.sas.upenn.edu/~y1mori/). I completed my Ph.D. in Mathematics at Shanghai Jiao Tong University from 2020 to 2024 under the supervision of Professor [Wenjun Ying](https://math.sjtu.edu.cn/faculty/wying/), after receiving my undergraduate training in Mathematics and Applied Mathematics there from 2016 to 2020.
 
-My research focuses on partial differential equations arising in physical and biological systems, including membrane biophysics and fluid dynamics, especially fluid-structure interaction. I develop mathematical models, design and analyze efficient numerical methods for their simulation, and study the well-posedness of the underlying PDE systems.
+My research focuses on partial differential equations arising in physical and biological systems, with a particular interest in fluid–structure interaction involving membranes and filaments in viscous fluids. I study the dynamics of these systems, including questions of well-posedness, stability, and long-time behavior. A recurring theme is how boundaries, interfaces, and open edges influence both the mathematical structure of these systems and their numerical treatment. I also develop accurate and efficient numerical methods for PDEs on irregular and moving domains, particularly Cartesian grid-based methods inspired by potential theory.
 
 **Email:** [hzhou24@sas.upenn.edu](mailto:hzhou24@sas.upenn.edu)  
 **Office:** DRL 3N8B, David Rittenhouse Laboratory, Philadelphia, PA, USA
