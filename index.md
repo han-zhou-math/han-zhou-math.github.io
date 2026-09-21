@@ -11,7 +11,7 @@ permalink: /
 
 I am currently a Postdoctoral Fellow in Applied Mathematics and Computational Science (AMCS) and the Center for Mathematical Biology (CMB) at the University of Pennsylvania, where I work with Professor [Yoichiro Mori](https://www.sas.upenn.edu/~y1mori/). I completed my Ph.D. in Mathematics at Shanghai Jiao Tong University from 2020 to 2024 under the supervision of Professor [Wenjun Ying](https://math.sjtu.edu.cn/faculty/wying/), after receiving my undergraduate training in Mathematics and Applied Mathematics there from 2016 to 2020.
 
-My research focuses on partial differential equations arising in physical and biological systems, with a particular interest in fluid–structure interaction involving membranes and filaments in viscous fluids. I study the dynamics of these systems, including questions of well-posedness, stability, and long-time behavior. I am particularly interested in how boundaries, interfaces, membrane edges, and filament endpoints influence both the mathematical structure of these systems and their numerical treatment. I also develop accurate and efficient numerical methods for PDEs on irregular and moving domains, particularly Cartesian grid-based methods inspired by potential theory.
+My research focuses on partial differential equations arising in physical and biological systems, with particular emphasis on fluid–structure interactions involving deformable thin objects, such as membranes and filaments, in viscous fluids. I study these systems through a combination of mathematical analysis and numerical simulation, with particular interest in the well-posedness of the governing PDEs and in the stability, bifurcation, and long-time behavior of the resulting dynamics. I also develop and analyze accurate and efficient immersed-type methods (e.g., IBM, IIM, KFBIM) for PDEs on irregular and moving domains, with strong connections to potential theory and boundary integral equations. More recently, I have become interested in how geometric irregularities, such as open edges, corners, and triple junctions, influence both the mathematical structure of the governing equations and their numerical approximation.
 
 **Email:** [hzhou24@sas.upenn.edu](mailto:hzhou24@sas.upenn.edu)  
 **Office:** DRL 3N8B, David Rittenhouse Laboratory, Philadelphia, PA, USA
@@ -47,7 +47,7 @@ My research focuses on partial differential equations arising in physical and bi
 7. H. Zhou, W. Ying,
    *A correction function-based KFBI method for Brinkman interface problems*,
    *Journal of Computational Physics*, to appear.
-   [arXiv](https://doi.org/10.48550/arXiv.2604.15509)
+   [DOI](https://doi.org/10.1016/j.jcp.2026.115404) [arXiv](https://doi.org/10.48550/arXiv.2604.15509)
 
 8. H. Zhou, Y.-N. Young, Y. Mori,
    *Modeling and simulation of open membranes in Stokes flow with mixed-dimensional coupling*,
