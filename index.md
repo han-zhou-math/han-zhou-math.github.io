@@ -39,48 +39,48 @@ My research focuses on partial differential equations arising in physical and bi
    *Principal-part decomposition for neural operator learning of Dirichlet-to-Neumann maps*,
    arXiv:2606.25952. [arXiv](https://doi.org/10.48550/arXiv.2606.25952)
 
-6. C. L. Epstein, Y. Mori, H. Zhou,
+6. H. Zhou, S. Li, W. Ying,
+   *A Cartesian grid-based boundary integral method for moving interface problems*,
+   arXiv:2309.01068. [arXiv](https://doi.org/10.48550/arXiv.2309.01068)
+
+7. H. Zhou, M. Huang, W. Ying,
+   *ADI schemes for the heat equation on arbitrary 3D domains and their applications*,
+   arXiv:2309.00979. [arXiv](https://doi.org/10.48550/arXiv.2309.00979)
+
+8. C. L. Epstein, Y. Mori, H. Zhou,
    *Bulk-surface coupled PDE with an open boundary*,
    *Studies in Applied Mathematics*, 157(2):e70286, 2026.
    [DOI](https://doi.org/10.1111/sapm.70286) [arXiv](https://doi.org/10.48550/arXiv.2604.20798)
 
-7. H. Zhou, W. Ying,
+9. H. Zhou, W. Ying,
    *A correction function-based KFBI method for Brinkman interface problems*,
    *Journal of Computational Physics*, to appear.
    [DOI](https://doi.org/10.1016/j.jcp.2026.115404) [arXiv](https://doi.org/10.48550/arXiv.2604.15509)
 
-8. H. Zhou, Y.-N. Young, Y. Mori,
-   *Modeling and simulation of open membranes in Stokes flow with mixed-dimensional coupling*,
-   *Multiscale Modeling & Simulation*, 24(2):474–500, 2026.
-   [DOI](https://doi.org/10.1137/25M1762476) [arXiv](https://doi.org/10.48550/arXiv.2504.16823)
+10. H. Zhou, Y.-N. Young, Y. Mori,
+    *Modeling and simulation of open membranes in Stokes flow with mixed-dimensional coupling*,
+    *Multiscale Modeling & Simulation*, 24(2):474–500, 2026.
+    [DOI](https://doi.org/10.1137/25M1762476) [arXiv](https://doi.org/10.48550/arXiv.2504.16823)
 
-9. P. Yin, W. Ying, Y. Zhang, H. Zhou,
-   *A kernel-free boundary integral method for elliptic interface problems on surfaces*,
-   *Journal of Computational Physics*, 562:115004, 2026.
-   [DOI](https://doi.org/10.1016/j.jcp.2026.115004)
+11. P. Yin, W. Ying, Y. Zhang, H. Zhou,
+    *A kernel-free boundary integral method for elliptic interface problems on surfaces*,
+    *Journal of Computational Physics*, 562:115004, 2026.
+    [DOI](https://doi.org/10.1016/j.jcp.2026.115004)
 
-10. H. Zhou, S. Li, W. Ying,
+12. H. Zhou, S. Li, W. Ying,
     *An alternating direction implicit method for mean curvature flows*,
     *Journal of Scientific Computing*, 101:65, 2024.
     [DOI](https://doi.org/10.1007/s10915-024-02701-3)
 
-11. H. Zhou, W. Ying,
+13. H. Zhou, W. Ying,
     *A correction function-based kernel-free boundary integral method for elliptic PDEs with implicitly defined interfaces*,
     *Journal of Computational Physics*, 496:112545, 2024.
     [DOI](https://doi.org/10.1016/j.jcp.2023.112545)
 
-12. H. Zhou, J. Yang, W. Ying,
+14. H. Zhou, J. Yang, W. Ying,
     *A kernel-free boundary integral method for the nonlinear Poisson-Boltzmann equation*,
     *Journal of Computational Physics*, 493:112423, 2023.
     [DOI](https://doi.org/10.1016/j.jcp.2023.112423)
-
-13. H. Zhou, S. Li, W. Ying,
-    *A Cartesian grid-based boundary integral method for moving interface problems*,
-    arXiv:2309.01068. [arXiv](https://doi.org/10.48550/arXiv.2309.01068)
-
-14. H. Zhou, M. Huang, W. Ying,
-    *ADI schemes for the heat equation on arbitrary 3D domains and their applications*,
-    arXiv:2309.00979. [arXiv](https://doi.org/10.48550/arXiv.2309.00979)
 
 15. H. Zhou, W. Ying,
     *A dimension splitting method for time dependent PDEs on irregular domains*,
