@@ -46,7 +46,7 @@ My research focuses on partial differential equations arising in physical and bi
 
 7. H. Zhou, W. Ying,
    *A correction function-based KFBI method for Brinkman interface problems*,
-   *Journal of Computational Physics*, to appear.
+   *Journal of Computational Physics*, 568:115404, 2027.
    [DOI](https://doi.org/10.1016/j.jcp.2026.115404) [arXiv](https://doi.org/10.48550/arXiv.2604.15509)
 
 8. H. Zhou, Y.-N. Young, Y. Mori,
