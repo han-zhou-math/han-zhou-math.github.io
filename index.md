@@ -39,15 +39,15 @@ My research focuses on partial differential equations arising in physical and bi
    *Principal-part decomposition for neural operator learning of Dirichlet-to-Neumann maps*,
    arXiv:2606.25952. [arXiv](https://doi.org/10.48550/arXiv.2606.25952)
 
-6. C. L. Epstein, Y. Mori, H. Zhou,
-   *Bulk-surface coupled PDE with an open boundary*,
-   *Studies in Applied Mathematics*, 157(2):e70286, 2026.
-   [DOI](https://doi.org/10.1111/sapm.70286) [arXiv](https://doi.org/10.48550/arXiv.2604.20798)
-
-7. H. Zhou, W. Ying,
+6. H. Zhou, W. Ying,
    *A correction function-based KFBI method for Brinkman interface problems*,
    *Journal of Computational Physics*, 568:115404, 2027.
    [DOI](https://doi.org/10.1016/j.jcp.2026.115404) [arXiv](https://doi.org/10.48550/arXiv.2604.15509)
+
+7. C. L. Epstein, Y. Mori, H. Zhou,
+   *Bulk-surface coupled PDE with an open boundary*,
+   *Studies in Applied Mathematics*, 157(2):e70286, 2026.
+   [DOI](https://doi.org/10.1111/sapm.70286) [arXiv](https://doi.org/10.48550/arXiv.2604.20798)
 
 8. H. Zhou, Y.-N. Young, Y. Mori,
    *Modeling and simulation of open membranes in Stokes flow with mixed-dimensional coupling*,
