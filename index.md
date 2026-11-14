@@ -19,7 +19,7 @@ My research focuses on partial differential equations arising in physical and bi
 <div id="publications"></div>
 ## Publications and Preprints
 
-<sup>†</sup> Authors listed in alphabetical order. <sup>*</sup> Corresponding author.
+<sup>†</sup> Authors listed in alphabetical order. <sup>&#42;</sup> Corresponding author.
 
 1. H. Zhou, L. Yao, Y. Mori, Y. Li,
    *A conservative moving-boundary multiphysics framework reveals nonlinear coupling between osmotic flow and actin-driven cell migration*,
@@ -41,7 +41,7 @@ My research focuses on partial differential equations arising in physical and bi
    *Stability and equilibria of a compressible elastic membrane in Stokes flow*,
    arXiv:2607.03357. [arXiv](https://doi.org/10.48550/arXiv.2607.03357)
 
-6. S. Ling, W. Ying, H. Zhou<sup>*</sup>,
+6. S. Ling, W. Ying, H. Zhou<sup>&#42;</sup>,
    *Principal-part decomposition for neural operator learning of Dirichlet-to-Neumann maps*,
    arXiv:2606.25952. [arXiv](https://doi.org/10.48550/arXiv.2606.25952)
 
@@ -50,7 +50,7 @@ My research focuses on partial differential equations arising in physical and bi
    *Journal of Computational Physics*, 568:115404, 2027.
    [DOI](https://doi.org/10.1016/j.jcp.2026.115404) [arXiv](https://doi.org/10.48550/arXiv.2604.15509)
 
-8. C. L. Epstein, Y. Mori, H. Zhou<sup>*†</sup>,
+8. C. L. Epstein, Y. Mori, H. Zhou<sup>&#42;†</sup>,
    *Bulk-surface coupled PDE with an open boundary*,
    *Studies in Applied Mathematics*, 157(2):e70286, 2026.
    [DOI](https://doi.org/10.1111/sapm.70286) [arXiv](https://doi.org/10.48550/arXiv.2604.20798)
@@ -60,7 +60,7 @@ My research focuses on partial differential equations arising in physical and bi
    *Multiscale Modeling & Simulation*, 24(2):474–500, 2026.
    [DOI](https://doi.org/10.1137/25M1762476) [arXiv](https://doi.org/10.48550/arXiv.2504.16823)
 
-10. P. Yin, W. Ying, Y. Zhang, H. Zhou<sup>*†</sup>,
+10. P. Yin, W. Ying, Y. Zhang, H. Zhou<sup>&#42;†</sup>,
     *A kernel-free boundary integral method for elliptic interface problems on surfaces*,
     *Journal of Computational Physics*, 562:115004, 2026.
     [DOI](https://doi.org/10.1016/j.jcp.2026.115004)
