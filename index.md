@@ -25,7 +25,7 @@ My research focuses on partial differential equations arising in physical and bi
 
 ### Preprints
 
-1. H. Zhou, Y.-W. Chang, Y. Mori<sup>&#42;</sup>,
+1. H. Zhou, Y.-W. Chang, Y. Mori,
    *Free-edge mechanics and hydrodynamic coupling shape membrane remodeling after pore opening*,
    bioRxiv:2026.11.20.768126. [bioRxiv](https://doi.org/10.64898/2026.11.20.768126)
 
