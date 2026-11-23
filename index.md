@@ -25,35 +25,39 @@ My research focuses on partial differential equations arising in physical and bi
 
 ### Preprints
 
-1. H. Zhou,
+1. H. Zhou, Y.-W. Chang, Y. Mori<sup>&#42;</sup>,
+   *Free-edge mechanics and hydrodynamic coupling shape membrane remodeling after pore opening*,
+   2026. [bioRxiv](https://doi.org/10.64898/2026.11.20.768126)
+
+2. H. Zhou,
    *High-Order Regularization for Singular and Nearly Singular Laplace and Stokes Layer Potentials in Two Dimensions*,
    arXiv:2611.21991. [arXiv](https://arxiv.org/abs/2611.21991)
 
-2. H. Zhou,
+3. H. Zhou,
    *Open Inextensible Filaments in Planar Stokes Flow: Well-Posedness, Endpoint Asymptotics, and Straightening*,
    arXiv:2609.10480. [arXiv](https://arxiv.org/abs/2609.10480)
 
-3. H. Zhou, Y. Mori, L. Yao,
+4. H. Zhou, Y. Mori, L. Yao,
    *A Cartesian grid method for advection-diffusion equations with Robin boundary conditions on moving domains*,
    arXiv:2607.26341. [arXiv](https://doi.org/10.48550/arXiv.2607.26341)
 
-4. E. García-Juárez, S. V. Haziot, P.-C. Kuo, Y. Mori, H. Zhou<sup>†</sup>,
+5. E. García-Juárez, S. V. Haziot, P.-C. Kuo, Y. Mori, H. Zhou<sup>†</sup>,
    *On the global asymptotic stability for the 3D Peskin Problem at critical regularity*,
    arXiv:2607.11731. [arXiv](https://doi.org/10.48550/arXiv.2607.11731)
 
-5. S. Kawakami, H. Zhou, P.-C. Kuo, Y. Mori, Y.-N. Young,
+6. S. Kawakami, H. Zhou, P.-C. Kuo, Y. Mori, Y.-N. Young,
    *Stability and equilibria of a compressible elastic membrane in Stokes flow*,
    arXiv:2607.03357. [arXiv](https://doi.org/10.48550/arXiv.2607.03357)
 
-6. S. Ling, W. Ying, H. Zhou<sup>&#42;</sup>,
+7. S. Ling, W. Ying, H. Zhou<sup>&#42;</sup>,
    *Principal-part decomposition for neural operator learning of Dirichlet-to-Neumann maps*,
    arXiv:2606.25952. [arXiv](https://doi.org/10.48550/arXiv.2606.25952)
 
-7. H. Zhou, S. Li, W. Ying,
+8. H. Zhou, S. Li, W. Ying,
    *A Cartesian grid-based boundary integral method for moving interface problems*,
    arXiv:2309.01068. [arXiv](https://doi.org/10.48550/arXiv.2309.01068)
 
-8. H. Zhou, M. Huang, W. Ying,
+9. H. Zhou, M. Huang, W. Ying,
    *ADI schemes for the heat equation on arbitrary 3D domains and their applications*,
    arXiv:2309.00979. [arXiv](https://doi.org/10.48550/arXiv.2309.00979)
 
