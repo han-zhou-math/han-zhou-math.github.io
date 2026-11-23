@@ -25,76 +25,93 @@ My research focuses on partial differential equations arising in physical and bi
 
 ### Preprints
 
-- H. Zhou, Y.-W. Chang, Y. Mori<sup>&#42;</sup>,
-  *Free-edge mechanics and hydrodynamic coupling shape membrane remodeling after pore opening*,
-  bioRxiv:2026.11.20.768126. [bioRxiv](https://doi.org/10.64898/2026.11.20.768126)
-- H. Zhou,
-  *High-Order Regularization for Singular and Nearly Singular Laplace and Stokes Layer Potentials in Two Dimensions*,
-  arXiv:2611.21991. [arXiv](https://arxiv.org/abs/2611.21991)
-- H. Zhou,
-  *Open Inextensible Filaments in Planar Stokes Flow: Well-Posedness, Endpoint Asymptotics, and Straightening*,
-  arXiv:2609.10480. [arXiv](https://arxiv.org/abs/2609.10480)
-- H. Zhou, Y. Mori, L. Yao,
-  *A Cartesian grid method for advection-diffusion equations with Robin boundary conditions on moving domains*,
-  arXiv:2607.26341. [arXiv](https://doi.org/10.48550/arXiv.2607.26341)
-- E. García-Juárez, S. V. Haziot, P.-C. Kuo, Y. Mori, H. Zhou<sup>†</sup>,
-  *On the global asymptotic stability for the 3D Peskin Problem at critical regularity*,
-  arXiv:2607.11731. [arXiv](https://doi.org/10.48550/arXiv.2607.11731)
-- S. Kawakami, H. Zhou, P.-C. Kuo, Y. Mori, Y.-N. Young,
-  *Stability and equilibria of a compressible elastic membrane in Stokes flow*,
-  arXiv:2607.03357. [arXiv](https://doi.org/10.48550/arXiv.2607.03357)
-- S. Ling, W. Ying, H. Zhou<sup>&#42;</sup>,
-  *Principal-part decomposition for neural operator learning of Dirichlet-to-Neumann maps*,
-  arXiv:2606.25952. [arXiv](https://doi.org/10.48550/arXiv.2606.25952)
-- H. Zhou, S. Li, W. Ying,
-  *A Cartesian grid-based boundary integral method for moving interface problems*,
-  arXiv:2309.01068. [arXiv](https://doi.org/10.48550/arXiv.2309.01068)
-- H. Zhou, M. Huang, W. Ying,
-  *ADI schemes for the heat equation on arbitrary 3D domains and their applications*,
-  arXiv:2309.00979. [arXiv](https://doi.org/10.48550/arXiv.2309.00979)
+1. H. Zhou, Y.-W. Chang, Y. Mori<sup>&#42;</sup>,
+   *Free-edge mechanics and hydrodynamic coupling shape membrane remodeling after pore opening*,
+   bioRxiv:2026.11.20.768126. [bioRxiv](https://doi.org/10.64898/2026.11.20.768126)
+
+2. H. Zhou,
+   *High-Order Regularization for Singular and Nearly Singular Laplace and Stokes Layer Potentials in Two Dimensions*,
+   arXiv:2611.21991. [arXiv](https://arxiv.org/abs/2611.21991)
+
+3. H. Zhou,
+   *Open Inextensible Filaments in Planar Stokes Flow: Well-Posedness, Endpoint Asymptotics, and Straightening*,
+   arXiv:2609.10480. [arXiv](https://arxiv.org/abs/2609.10480)
+
+4. H. Zhou, Y. Mori, L. Yao,
+   *A Cartesian grid method for advection-diffusion equations with Robin boundary conditions on moving domains*,
+   arXiv:2607.26341. [arXiv](https://doi.org/10.48550/arXiv.2607.26341)
+
+5. E. García-Juárez, S. V. Haziot, P.-C. Kuo, Y. Mori, H. Zhou<sup>†</sup>,
+   *On the global asymptotic stability for the 3D Peskin Problem at critical regularity*,
+   arXiv:2607.11731. [arXiv](https://doi.org/10.48550/arXiv.2607.11731)
+
+6. S. Kawakami, H. Zhou, P.-C. Kuo, Y. Mori, Y.-N. Young,
+   *Stability and equilibria of a compressible elastic membrane in Stokes flow*,
+   arXiv:2607.03357. [arXiv](https://doi.org/10.48550/arXiv.2607.03357)
+
+7. S. Ling, W. Ying, H. Zhou<sup>&#42;</sup>,
+   *Principal-part decomposition for neural operator learning of Dirichlet-to-Neumann maps*,
+   arXiv:2606.25952. [arXiv](https://doi.org/10.48550/arXiv.2606.25952)
+
+8. H. Zhou, S. Li, W. Ying,
+   *A Cartesian grid-based boundary integral method for moving interface problems*,
+   arXiv:2309.01068. [arXiv](https://doi.org/10.48550/arXiv.2309.01068)
+
+9. H. Zhou, M. Huang, W. Ying,
+   *ADI schemes for the heat equation on arbitrary 3D domains and their applications*,
+   arXiv:2309.00979. [arXiv](https://doi.org/10.48550/arXiv.2309.00979)
 
 ### Published and accepted papers
 
-- H. Zhou, L. Yao, Y. Mori, Y. Li,
-  *A conservative moving-boundary multiphysics framework reveals nonlinear coupling between osmotic flow and actin-driven cell migration*,
-  *Frontiers in Systems Biology*, 6 (2026), in press.
-  [DOI](https://www.frontiersin.org/journals/systems-biology/articles/10.3389/fsysb.2026.2022529/abstract) [bioRxiv](https://doi.org/10.64898/2026.10.09.757961)
-- H. Zhou, W. Ying,
-  *A correction function-based KFBI method for Brinkman interface problems*,
-  *Journal of Computational Physics*, 568:115404, 2027.
-  [DOI](https://doi.org/10.1016/j.jcp.2026.115404) [arXiv](https://doi.org/10.48550/arXiv.2604.15509)
-- C. L. Epstein, Y. Mori, H. Zhou<sup>&#42;†</sup>,
-  *Bulk-surface coupled PDE with an open boundary*,
-  *Studies in Applied Mathematics*, 157(2):e70286, 2026.
-  [DOI](https://doi.org/10.1111/sapm.70286) [arXiv](https://doi.org/10.48550/arXiv.2604.20798)
-- H. Zhou, Y.-N. Young, Y. Mori,
-  *Modeling and simulation of open membranes in Stokes flow with mixed-dimensional coupling*,
-  *Multiscale Modeling & Simulation*, 24(2):474–500, 2026.
-  [DOI](https://doi.org/10.1137/25M1762476) [arXiv](https://doi.org/10.48550/arXiv.2504.16823)
-- P. Yin, W. Ying, Y. Zhang, H. Zhou<sup>&#42;†</sup>,
-  *A kernel-free boundary integral method for elliptic interface problems on surfaces*,
-  *Journal of Computational Physics*, 562:115004, 2026.
-  [DOI](https://doi.org/10.1016/j.jcp.2026.115004)
-- H. Zhou, S. Li, W. Ying,
-  *An alternating direction implicit method for mean curvature flows*,
-  *Journal of Scientific Computing*, 101:65, 2024.
-  [DOI](https://doi.org/10.1007/s10915-024-02701-3)
-- H. Zhou, W. Ying,
-  *A correction function-based kernel-free boundary integral method for elliptic PDEs with implicitly defined interfaces*,
-  *Journal of Computational Physics*, 496:112545, 2024.
-  [DOI](https://doi.org/10.1016/j.jcp.2023.112545)
-- H. Zhou, J. Yang, W. Ying,
-  *A kernel-free boundary integral method for the nonlinear Poisson-Boltzmann equation*,
-  *Journal of Computational Physics*, 493:112423, 2023.
-  [DOI](https://doi.org/10.1016/j.jcp.2023.112423)
-- H. Zhou, W. Ying,
-  *A dimension splitting method for time dependent PDEs on irregular domains*,
-  *Journal of Scientific Computing*, 94(1):20, 2023.
-  [DOI](https://doi.org/10.1007/s10915-022-02066-5)
-- J. Xu, D. Hu, H. Zhou,
-  *A phase-field method for elastic mechanics with large deformation*,
-  *Journal of Computational Physics*, 471:111630, 2022.
-  [DOI](https://doi.org/10.1016/j.jcp.2022.111630)
+1. H. Zhou, L. Yao, Y. Mori, Y. Li,
+   *A conservative moving-boundary multiphysics framework reveals nonlinear coupling between osmotic flow and actin-driven cell migration*,
+   *Frontiers in Systems Biology*, 6 (2026), in press.
+   [DOI](https://www.frontiersin.org/journals/systems-biology/articles/10.3389/fsysb.2026.2022529/abstract) [bioRxiv](https://doi.org/10.64898/2026.10.09.757961)
+
+2. H. Zhou, W. Ying,
+   *A correction function-based KFBI method for Brinkman interface problems*,
+   *Journal of Computational Physics*, 568:115404, 2027.
+   [DOI](https://doi.org/10.1016/j.jcp.2026.115404) [arXiv](https://doi.org/10.48550/arXiv.2604.15509)
+
+3. C. L. Epstein, Y. Mori, H. Zhou<sup>&#42;†</sup>,
+   *Bulk-surface coupled PDE with an open boundary*,
+   *Studies in Applied Mathematics*, 157(2):e70286, 2026.
+   [DOI](https://doi.org/10.1111/sapm.70286) [arXiv](https://doi.org/10.48550/arXiv.2604.20798)
+
+4. H. Zhou, Y.-N. Young, Y. Mori,
+   *Modeling and simulation of open membranes in Stokes flow with mixed-dimensional coupling*,
+   *Multiscale Modeling & Simulation*, 24(2):474–500, 2026.
+   [DOI](https://doi.org/10.1137/25M1762476) [arXiv](https://doi.org/10.48550/arXiv.2504.16823)
+
+5. P. Yin, W. Ying, Y. Zhang, H. Zhou<sup>&#42;†</sup>,
+   *A kernel-free boundary integral method for elliptic interface problems on surfaces*,
+   *Journal of Computational Physics*, 562:115004, 2026.
+   [DOI](https://doi.org/10.1016/j.jcp.2026.115004)
+
+6. H. Zhou, S. Li, W. Ying,
+   *An alternating direction implicit method for mean curvature flows*,
+   *Journal of Scientific Computing*, 101:65, 2024.
+   [DOI](https://doi.org/10.1007/s10915-024-02701-3)
+
+7. H. Zhou, W. Ying,
+   *A correction function-based kernel-free boundary integral method for elliptic PDEs with implicitly defined interfaces*,
+   *Journal of Computational Physics*, 496:112545, 2024.
+   [DOI](https://doi.org/10.1016/j.jcp.2023.112545)
+
+8. H. Zhou, J. Yang, W. Ying,
+   *A kernel-free boundary integral method for the nonlinear Poisson-Boltzmann equation*,
+   *Journal of Computational Physics*, 493:112423, 2023.
+   [DOI](https://doi.org/10.1016/j.jcp.2023.112423)
+
+9. H. Zhou, W. Ying,
+   *A dimension splitting method for time dependent PDEs on irregular domains*,
+   *Journal of Scientific Computing*, 94(1):20, 2023.
+   [DOI](https://doi.org/10.1007/s10915-022-02066-5)
+
+10. J. Xu, D. Hu, H. Zhou,
+    *A phase-field method for elastic mechanics with large deformation*,
+    *Journal of Computational Physics*, 471:111630, 2022.
+    [DOI](https://doi.org/10.1016/j.jcp.2022.111630)
 
 <div id="talks"></div>
 ## Talks
